@@ -3,9 +3,9 @@
 I'm new to GitHub!  
 I've been learning Python and Chrome Extensions.  
 Here are some projects I've been working on.  
-[Sleek Favorites](https://github.com/Yohey-mk/SleekFavorites)  
-[Instant Copy Hub](https://github.com/Yohey-mk/InstantCopyHub)  
-[(WIP)Locally ToDo](https://github.com/Yohey-mk/Locally_ToDo)  
+🐏 - [Sleek Favorites](https://github.com/Yohey-mk/SleekFavorites)  
+📖 - [Instant Copy Hub](https://github.com/Yohey-mk/InstantCopyHub)  
+📝 - [(WIP)Locally ToDo](https://github.com/Yohey-mk/Locally_ToDo)  
 I hope my work will be hepful make your daily life a bit easy!  
 
 <!--
