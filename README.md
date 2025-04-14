@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm new to GitHub!  
+Minimalist in real life, Maximalist in the digital world──.  
 I've been learning Python and Chrome Extensions.  
 Here are some projects I've been working on.  
 🐏 - [Sleek Favorites](https://github.com/Yohey-mk/SleekFavorites)  
 📖 - [Instant Copy Hub](https://github.com/Yohey-mk/InstantCopyHub)  
 📝 - [(WIP)Locally ToDo](https://github.com/Yohey-mk/Locally_ToDo)  
-I hope my work will be hepful make your daily life a bit easy!  
+I hope my work(s) will be hepful make your daily life a bit easy!  
 
 <!--
 **Yohey-mk/Yohey-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
