@@ -5,8 +5,8 @@ I've been learning Python and Chrome Extensions / Firefox Add-ons(Javascript, HT
   
 ## ⚒️ My projects  
 ### 🌸 - [100Project Challenge](https://github.com/Yohey-mk/100_project_challenge)  
-The title says it's all. I've been learning coding in python by creating 100 apps.  
-I've created 25 apps so far and I'm excited to see how much I'd learn coding!  
+The title says it all. I've been learning Python by creating 100 apps.  
+So far, I’ve completed 25 apps, and I’m excited to see how much more I’ll learn along the way!  
 ### 🐏 - [Sleek Favorites](https://github.com/Yohey-mk/SleekFavorites)  
 A minimalist style homepage. It will help you focus on what you actually want to do.  
 In order to handpick what to list on the favorite section, you'll have to think which bookmarks you really need.  
